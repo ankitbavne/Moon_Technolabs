@@ -1,0 +1,6 @@
+id, Name, Email, Mobile, Gender, DOB (YYYY-mm-dd), CreatedAt
+1,Dipak Patil,dp@test.com,123456789,Male,1999-01-01, 
+2,Kishor Patil,kp@test.com,234567891,Male,1999-01-02, 
+3,Devanshu Mehra,dm@test.com,345678912,Male,1999-01-03, 
+4,Akhil Wankhede,aw@test.com,456789123,Male,1999-01-04, 
+5,Durgesh Nagmote,dn@test.com,567891234,Male,1999-01-05, 
